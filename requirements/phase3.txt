@@ -1,0 +1,3 @@
+-r phase2.txt
+qiskit
+qiskit-aer
